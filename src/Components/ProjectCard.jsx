@@ -8,7 +8,7 @@ const ProjectCard = (props) => {
         <p className="text-zinc-400 geist font-semibold mb-4">
           {props.Section}
         </p>
-        <img className="h-35 w-90" src={props.img} alt="" />
+        <img className="h-40 w-90" src={props.img} alt="" />
         <div className="mt-3 mb-2">
           <a href={props.links}>
             <h1 className="text-zinc-200  geist font-semibold text-[18px] giest mt-1">

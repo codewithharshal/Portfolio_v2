@@ -1,6 +1,9 @@
 import github from "./github.svg";
 import linkedin from "./linkedin.svg";
 import resume from "./Resume.svg";
+import leetcode from "./leetcode.svg";
+import Codeforce from "./codeforces.svg";
+import Codechef from "./codechef.svg";
 
 const socialLinks = [
   {
@@ -15,23 +18,23 @@ const socialLinks = [
   },
   {
     name: "Resume",
-    url: "https://drive.google.com/file/d/1B1gR_K8xOOZlFA5szslOATygQqzTDYqK/view?usp=sharing",
+    url: "",
     icon: resume,
   },
   {
-    name: "Resume",
-    url: "https://drive.google.com/file/d/1B1gR_K8xOOZlFA5szslOATygQqzTDYqK/view?usp=sharing",
-    icon: resume,
+    name: "Leetcode",
+    url: "",
+    icon: leetcode,
   },
   {
-    name: "Resume",
-    url: "https://drive.google.com/file/d/1B1gR_K8xOOZlFA5szslOATygQqzTDYqK/view?usp=sharing",
-    icon: resume,
+    name: "Codechef",
+    url: "",
+    icon: Codechef,
   },
   {
-    name: "Resume",
-    url: "https://drive.google.com/file/d/1B1gR_K8xOOZlFA5szslOATygQqzTDYqK/view?usp=sharing",
-    icon: resume,
+    name: "Codeforce",
+    url: "",
+    icon: Codeforce,
   },
 ];
 

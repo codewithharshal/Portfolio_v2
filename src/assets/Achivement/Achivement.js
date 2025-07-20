@@ -2,7 +2,7 @@ import ZTM from "./MLDS.jpg";
 import FWR from "./React.jpg";
 import JI from "./Js.jpg";
 import DSA from "./DSA.jpg";
-import GFG from "./dummyimg.png";
+import Web_dev_bootcamp from "./Web_dev_bootcamp.jpg";
 
 const achievements = [
   {
@@ -13,8 +13,19 @@ const achievements = [
     platform: "Zero to Mastery Academy",
     description:
       "Completed a hands-on, project-based course covering core concepts in machine learning and data science. Gained practical experience with Python libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. Built real-world ML models for classification, regression, and clustering.",
-    date: "March 2024",
+    date: "Jan 2024",
     labels: ["ML", "DL"],
+  },
+  {
+    image: Web_dev_bootcamp,
+    // link: "https://your-portfolio-site.com",
+    title: "Web devlopment Bootcamp",
+    active: true,
+    platform: "Udemy - Colt Steele",
+    description:
+      "Gained hands-on experience in full-stack web development, covering HTML, CSS, JavaScript, Node.js, Express, MongoDB, and RESTful APIs. Built multiple real-world projects while strengthening core web fundamentals and modern development practices.",
+    date: "March 2024",
+    labels: ["WEB", "MERN"],
   },
   {
     image: FWR,
@@ -44,7 +55,7 @@ const achievements = [
     // link: "https://your-portfolio-site.com",
     title: "Data Structures and Algorithms",
     active: true,
-    platform: "Apna College",
+    platform: "PW Skills",
     description:
       "Completed an intensive course focused on building problem-solving skills using essential data structures and algorithms. Covered topics such as arrays, linked lists, stacks, queues, trees, graphs, sorting, searching, and dynamic programming.",
     date: "May 2024",
