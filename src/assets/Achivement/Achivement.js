@@ -6,17 +6,6 @@ import Web_dev_bootcamp from "./Web_dev_bootcamp.jpg";
 
 const achievements = [
   {
-    image: ZTM,
-    // link: "https://your-portfolio-site.com",
-    title: "Machine Learning & Data Science Bootcamp",
-    active: true,
-    platform: "Zero to Mastery Academy",
-    description:
-      "Completed a hands-on, project-based course covering core concepts in machine learning and data science. Gained practical experience with Python libraries like NumPy, Pandas, Matplotlib, and Scikit-learn. Built real-world ML models for classification, regression, and clustering.",
-    date: "Jan 2024",
-    labels: ["ML", "DL"],
-  },
-  {
     image: Web_dev_bootcamp,
     // link: "https://your-portfolio-site.com",
     title: "Web devlopment Bootcamp",

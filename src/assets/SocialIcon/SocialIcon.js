@@ -27,11 +27,6 @@ const socialLinks = [
     icon: leetcode,
   },
   {
-    name: "Codechef",
-    url: "",
-    icon: Codechef,
-  },
-  {
     name: "Codeforce",
     url: "",
     icon: Codeforce,
