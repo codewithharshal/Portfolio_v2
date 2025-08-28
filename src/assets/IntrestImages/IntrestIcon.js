@@ -1,7 +1,6 @@
-import Intrest from "./Intrest.svg";
-import GTA from "./GTA.jpg";
-import GOT from "./GOT.jpg";
-import Detriot from "./Detriot.jpg";
-import Art from "./Project2.jpg";
+import GTA from "./GTA.webp";
+import GOT from "./GOT.webp";
+import Detriot from "./Detriot.webp";
+import Art from "./Project2.webp";
 
-export default { Intrest, GTA, GOT, Detriot, Art };
+export default { GTA, GOT, Detriot, Art };

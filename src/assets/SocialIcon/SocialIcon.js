@@ -3,7 +3,6 @@ import linkedin from "./linkedin.svg";
 import resume from "./Resume.svg";
 import leetcode from "./leetcode.svg";
 import Codeforce from "./codeforces.svg";
-import Codechef from "./codechef.svg";
 
 const socialLinks = [
   {

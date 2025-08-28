@@ -1,8 +1,7 @@
-import Portfolio from "./Portfolio.png";
-import RealEstate from "./RealEstate.png";
-import Yelpcamp from "./Yelpcamp.jpg";
-import AiImage from "./Ai.jpg";
-import Portfoliov2 from "./Portfolio_v2.png";
+import Portfolio from "./Portfolio.webp";
+import RealEstate from "./RealEstate.webp";
+import Yelpcamp from "./Yelpcamp.webp";
+import Portfoliov2 from "./Portfolio_v2.webp";
 
 const projects = [
   {
