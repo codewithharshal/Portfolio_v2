@@ -1,6 +1,3 @@
-import FWR from "./React.webp";
-import JI from "./Js.webp";
-import DSA from "./DSA.webp";
 import Web_dev_bootcamp from "./Web_dev_bootcamp.webp";
 
 const achievements = [
